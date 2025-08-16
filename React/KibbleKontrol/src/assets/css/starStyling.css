@@ -1,0 +1,7 @@
+/*Styling Starts from MUI package need to be done like this keeps overriding with the form-group  due to inheritance*/
+.start-rating-size .MuiSvgIcon-root {
+  font-size: 30px !important;
+}
+.start-rating-size .MuiRating-iconFilled {
+  color: #ffd700;
+}

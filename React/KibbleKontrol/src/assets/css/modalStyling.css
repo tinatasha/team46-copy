@@ -1,0 +1,11 @@
+.chart-modal-view {
+  max-width: 90vw;
+  max-height: 90vh;
+
+  display: flex;
+  flex-direction: column;
+}
+.chart-view-management {
+  height: 40vh;
+  margin-top: 1.25rem;
+}
